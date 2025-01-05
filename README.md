@@ -16,6 +16,6 @@ On [GitHub Pages](https://derektypist.github.io/build-a-job-application-form) at
 
 ## Credits
 
-### Acknowledgements
+### Acknowledgements
 
 - [FreeCodeCamp](https://www.freecodecamp.org)
